@@ -1,1 +1,2 @@
 Can diy\
+This file consists all candy list and category from the file.
